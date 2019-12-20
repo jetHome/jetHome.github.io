@@ -3,26 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jetHome.github.io/post/docker%E5%AE%89%E8%A3%85mysql/</loc>
+    <loc>http://www.flysnow.org/post/docker%E5%AE%89%E8%A3%85mysql/</loc>
     <lastmod>2019-12-20T15:36:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jetHome.github.io/post/</loc>
+    <loc>http://www.flysnow.org/post/</loc>
     <lastmod>2019-12-20T15:36:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jetHome.github.io/</loc>
+    <loc>http://www.flysnow.org/</loc>
     <lastmod>2019-12-20T15:36:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jetHome.github.io/categories/</loc>
+    <loc>http://www.flysnow.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jetHome.github.io/tags/</loc>
+    <loc>http://www.flysnow.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.org/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.org/search/</loc>
   </url>
   
 </urlset>
