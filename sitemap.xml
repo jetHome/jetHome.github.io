@@ -3,16 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jetHome.github.io/post/docker-%E5%86%85%E5%AE%89%E8%A3%85mysql/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jetHome.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jetHome.github.io/post/</loc>
   </url>
   
   <url>
