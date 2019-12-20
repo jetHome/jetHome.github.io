@@ -5,9 +5,27 @@
     <link>https://jetHome.github.io/</link>
     <description>Recent content on 小记</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Dec 2019 15:36:21 +0800</lastBuildDate>
     
 	<atom:link href="https://jetHome.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker安装mysql</title>
+      <link>https://jetHome.github.io/post/docker%E5%AE%89%E8%A3%85mysql/</link>
+      <pubDate>Fri, 20 Dec 2019 15:36:21 +0800</pubDate>
+      
+      <guid>https://jetHome.github.io/post/docker%E5%AE%89%E8%A3%85mysql/</guid>
+      <description>docker 内安装mysql 一 启动mysql容器 1.拉取mysql镜像
+2.根据镜像启动容器
+docker run --name myMysql \ -p 33306:3306 \ -v /my/mysql/data:/var/lib/mysql \ -e MYSQL_ROOT_PASSWORD=root \ -dmysql:my3.确认容器启动
+docker p
+二 调整mysql的配置 1.进入mysql容器
+docker ps -adocker exec -it 容器id /bin/bash2.如果容器内没有vim，执行如下操作
+apt-get updateapt-get install vim3.修改msysql配置文件
+4.重新启动容器
+docker psdocker stop 容器iddocker start 容器id</description>
+    </item>
     
   </channel>
 </rss>

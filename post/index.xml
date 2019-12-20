@@ -5,16 +5,17 @@
     <link>https://jetHome.github.io/post/</link>
     <description>Recent content in Posts on 小记</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Dec 2019 15:36:21 +0800</lastBuildDate>
     
 	<atom:link href="https://jetHome.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://jetHome.github.io/post/docker-%E5%86%85%E5%AE%89%E8%A3%85mysql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Docker安装mysql</title>
+      <link>https://jetHome.github.io/post/docker%E5%AE%89%E8%A3%85mysql/</link>
+      <pubDate>Fri, 20 Dec 2019 15:36:21 +0800</pubDate>
       
-      <guid>https://jetHome.github.io/post/docker-%E5%86%85%E5%AE%89%E8%A3%85mysql/</guid>
+      <guid>https://jetHome.github.io/post/docker%E5%AE%89%E8%A3%85mysql/</guid>
       <description>docker 内安装mysql 一 启动mysql容器 1.拉取mysql镜像
 2.根据镜像启动容器
 docker run --name myMysql \ -p 33306:3306 \ -v /my/mysql/data:/var/lib/mysql \ -e MYSQL_ROOT_PASSWORD=root \ -dmysql:my3.确认容器启动
