@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小记</title>
-    <link>https://jethome.github.com/categories/</link>
+    <link>https://jetHome.github.com/categories/</link>
     <description>Recent content in Categories on 小记</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://jethome.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jetHome.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
